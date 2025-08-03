@@ -2,4 +2,4 @@
 
 ### Genome Sequencing
 
-<iframe width="720" height="480" src="https://www.youtube.com/embed/rH6vsoyrc_U" frameborder="0" allowfullscreen></iframe>
+[<img src="https://img.youtube.com/vi/rH6vsoyrc_U/0.jpg" width="360p"/>](https://www.youtube.com/watch?v=rH6vsoyrc_U)
