@@ -2,6 +2,16 @@
 
 ## Study Notes
 
+### Abstract
+
+The human genome was analyzed for evidence that genes had been laterally transferred into the genome from prokaryotic organisms. 
+
+Protein sequence comparisons of the proteomes of human, fruit fly, nematode worm, yeast, mustard weed, eukaryotic parasites, and all completed prokaryote genomes were performed, and all genes shared between human and each of the other groups of organisms were collected. 
+
+About 40 genes were found to be exclusively shared by humans and bacteria and are candidate examples of horizontal transfer from bacteria to vertebrates. 
+
+Gene loss combined with sample size effects and evolutionary rate variation provide an alternative, more biologically plausible explanation.
+
 ### 1. 🧬 Introduction to Microbial Genes in the Human Genome
 
 This study explores a fascinating question in genomics: **Are some genes found in the human genome actually transferred from microbes, specifically bacteria, through a process called lateral (or horizontal) gene transfer?** Traditionally, gene transfer was thought to occur only vertically—from parent to offspring. However, in microorganisms, genes can jump between unrelated species, a process known as **lateral gene transfer (LGT)** or **horizontal gene transfer (HGT)**.
