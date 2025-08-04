@@ -1,5 +1,7 @@
 ## Microbial Genes in the Human Genome: Lateral Transfer or Gene Loss?
 
+[Salzberg et al. 2001](https://d396qusza40orc.cloudfront.net/genintro/misc/Salzberg-etal-2001-Science.pdf)
+
 ## Study Notes
 
 ### Abstract
